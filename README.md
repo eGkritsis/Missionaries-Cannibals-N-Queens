@@ -9,9 +9,9 @@ The first project focuses on solving the Missionaries & Cannibals problem using 
 ### How to Run
 To compile the code using the terminal, execute the following command:
 
-```
-javac *.java
-```
+
+$javac *.java
+
 
 To run the main program, use the following command:
 ```
