@@ -9,7 +9,7 @@ The first project focuses on solving the Missionaries & Cannibals problem using 
 ### How to Run
 To compile the code using the terminal, execute the following command:
 ```
-$javac *.java
+javac *.java
 ```
 
 To run the main program, use the following command:
@@ -25,14 +25,13 @@ java MisCan <N> <M> [<K> <MODE>]
 ## Project 2: N Queens Problem
 
 ### Description
-The second project focuses on solving the N Queens problem. The problem is generalized to a chessboard of size NxN, with N queens placed on the board. Various search algorithms, such as genetic algorithms, hill climbing, or beam search, can be used to find a solution. The program allows testing with relatively small values of N (even smaller than 8).
+The second project focuses on solving the N Queens problem using a genetic algorithm. The problem is generalized to a chessboard of size NxN, with N queens placed on the board. The genetic algorithm is employed to find a solution by iteratively evolving a population of candidate solutions. The program allows testing with relatively small values of N (even smaller than 8) to find valid configurations where no queens threaten each other.
 
 ### How to Run
 To compile the code using the terminal, execute the following command:
 ```
 javac *.java
 ```
-
 
 To run the main program, use the following command:
 ```
